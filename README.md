@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of blomstra/secondary-tags-toggler.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/secondary-tags-toggler) or the [upstream repository](https://github.com/blomstra/flarum-ext-secondary-tags-toggler).
 
-**0** versions archived · Latest: [`0.2.3`](https://github.com/flarchive/blomstra-secondary-tags-toggler/tree/archive/v0.2.3) · License: `MIT` · Flarum: `^1.2.0`
+**7** versions archived · Latest: [`0.2.3`](https://github.com/flarchive/blomstra-secondary-tags-toggler/tree/archive/v0.2.3) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-10-23 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-secondary-tags-toggler/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-10-30 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-secondary-tags-toggler/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-11-13 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-secondary-tags-toggler/tree/archive/v0.1.2) |
+| `0.2.0` | 2021-11-22 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-secondary-tags-toggler/tree/archive/v0.2.0) |
+| `0.2.1` | 2021-11-29 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-secondary-tags-toggler/tree/archive/v0.2.1) |
+| `0.2.2` | 2021-12-02 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-secondary-tags-toggler/tree/archive/v0.2.2) |
+| `0.2.3` | 2022-01-25 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-secondary-tags-toggler/tree/archive/v0.2.3) |
 
 Catalog entry: [packages/blomstra-secondary-tags-toggler.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-secondary-tags-toggler.json)
 
